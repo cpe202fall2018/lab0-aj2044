@@ -2,6 +2,7 @@ import unittest
 import io, sys
 from planets import *
 
+
 class Test_planets(unittest.TestCase):
 
     def test_01(self):
